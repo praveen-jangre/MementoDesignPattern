@@ -22,7 +22,7 @@ The Memento design pattern provides a way to capture an object's internal state 
 * Memory usage
 * Performance concerns
 * Frequency of state changes
-- frequent snapshots affect performance
-- infrequent saves might miss important states
+    - frequent snapshots affect performance
+    - infrequent saves might miss important states
 * Versioning
 
