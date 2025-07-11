@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Page-1" id="pt2-N2RPmPDCYlziOM9A">
+    <mxGraphModel dx="1018" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Zt0a48Xrl1jDhhw4yZQm-1" target="Zt0a48Xrl1jDhhw4yZQm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-1" value="Caretaker" style="fontStyle=1;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="115" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Originator&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;+ createMemento(): Memento&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;+ restore(memento: Memento)&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Memento&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;+state: &amp;lt;T&amp;gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="536" y="315" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-6" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="Zt0a48Xrl1jDhhw4yZQm-3" target="Zt0a48Xrl1jDhhw4yZQm-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="215" as="sourcePoint" />
+            <mxPoint x="490" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-7" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Zt0a48Xrl1jDhhw4yZQm-1" target="Zt0a48Xrl1jDhhw4yZQm-4">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="330" y="215" as="sourcePoint" />
+            <mxPoint x="300" y="465" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;The Memento Design Pattern&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;* Originator &lt;/font&gt;- the object whose state we want to save and restore&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- Declare createMemento() and restore(memento: Memento)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;* Memento is a basic data container; hold the state of the Originator&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot;&gt;* Caretaker manages saving and restoring&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-80" width="720" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Sequence Diagram&lt;/font&gt;" style="text;align=left;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="710" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-14" value="&lt;b&gt;aCaretaker&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="560" width="230" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-15" value="&lt;b&gt;anOriginator&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="230" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;strokeWidth=2;" vertex="1" parent="Zt0a48Xrl1jDhhw4yZQm-15">
+          <mxGeometry x="100" y="80" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=14;" vertex="1" parent="Zt0a48Xrl1jDhhw4yZQm-15">
+          <mxGeometry x="100" y="440" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-16" value="&lt;b&gt;aMemento&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="640" width="230" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Zt0a48Xrl1jDhhw4yZQm-16">
+          <mxGeometry x="100" y="360" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-17" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="245" y="650" as="sourcePoint" />
+            <mxPoint x="500" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Store memento&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="Zt0a48Xrl1jDhhw4yZQm-18" target="Zt0a48Xrl1jDhhw4yZQm-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="850" as="sourcePoint" />
+            <mxPoint x="460" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-23" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt;&lt;div&gt;2. create Memento&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="Zt0a48Xrl1jDhhw4yZQm-18" target="Zt0a48Xrl1jDhhw4yZQm-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="710" as="sourcePoint" />
+            <mxPoint x="380" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-25" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="245" y="1008" as="sourcePoint" />
+            <mxPoint x="500" y="1008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-26" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="Zt0a48Xrl1jDhhw4yZQm-19" target="Zt0a48Xrl1jDhhw4yZQm-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="1000" as="sourcePoint" />
+            <mxPoint x="685" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-27" value="1. Save snapshot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="290" y="620" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-28" value="4. Restore state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="295" y="980" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt0a48Xrl1jDhhw4yZQm-29" value="5. Get state" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="625" y="970" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
